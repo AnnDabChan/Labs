@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Пирамидальная сортировка", "Пирамидальная сортировка\Пирамидальная сортировка.vcxproj", "{6F56480C-506B-466D-8A73-E4E6750954B0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Четно-нечетная сортировка", "Четно-нечетная сортировка\Четно-нечетная сортировка.vcxproj", "{F8E5C7A9-F0D8-4D42-8327-DB3EA138B13B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F56480C-506B-466D-8A73-E4E6750954B0}.Debug|x64.ActiveCfg = Debug|x64
+		{6F56480C-506B-466D-8A73-E4E6750954B0}.Debug|x64.Build.0 = Debug|x64
+		{6F56480C-506B-466D-8A73-E4E6750954B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F56480C-506B-466D-8A73-E4E6750954B0}.Debug|x86.Build.0 = Debug|Win32
+		{6F56480C-506B-466D-8A73-E4E6750954B0}.Release|x64.ActiveCfg = Release|x64
+		{6F56480C-506B-466D-8A73-E4E6750954B0}.Release|x64.Build.0 = Release|x64
+		{6F56480C-506B-466D-8A73-E4E6750954B0}.Release|x86.ActiveCfg = Release|Win32
+		{6F56480C-506B-466D-8A73-E4E6750954B0}.Release|x86.Build.0 = Release|Win32
+		{F8E5C7A9-F0D8-4D42-8327-DB3EA138B13B}.Debug|x64.ActiveCfg = Debug|x64
+		{F8E5C7A9-F0D8-4D42-8327-DB3EA138B13B}.Debug|x64.Build.0 = Debug|x64
+		{F8E5C7A9-F0D8-4D42-8327-DB3EA138B13B}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8E5C7A9-F0D8-4D42-8327-DB3EA138B13B}.Debug|x86.Build.0 = Debug|Win32
+		{F8E5C7A9-F0D8-4D42-8327-DB3EA138B13B}.Release|x64.ActiveCfg = Release|x64
+		{F8E5C7A9-F0D8-4D42-8327-DB3EA138B13B}.Release|x64.Build.0 = Release|x64
+		{F8E5C7A9-F0D8-4D42-8327-DB3EA138B13B}.Release|x86.ActiveCfg = Release|Win32
+		{F8E5C7A9-F0D8-4D42-8327-DB3EA138B13B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB747A9A-8EAC-4D52-A2F0-8E8624356874}
+	EndGlobalSection
+EndGlobal
