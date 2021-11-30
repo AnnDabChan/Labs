@@ -1,0 +1,4 @@
+cpu: gjg		 freaq: 35	 type: c
+cpu: Jixovuk		 freaq: 1478	 type: R
+cpu: Cxpdom		 freaq: 3739	 type: R
+cpu: Bbqgslkp		 freaq: 3489	 type: C
